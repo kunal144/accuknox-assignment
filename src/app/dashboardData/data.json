@@ -1,0 +1,94 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "CSPM Executive Dashboard",
+        "shortName":"CSPM",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Cloud Accounts",
+            "content": "This is widget 1 content"
+          },
+          {
+            "id": 2,
+            "name": "Cloud Accounts Risk Assessment"
+            
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "CWPP Dashboard",
+        "shortName":"CWPP",
+        "widgets": [
+          {
+            "id": 4,
+            "name": "Image Risk Assessment"
+          },
+          
+          {
+            "id": 5,
+            "name": "Top 5 Namespace Specific Alerts"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Sales Performance",
+        "shortName":"Sales",
+        "widgets": [
+          {
+            "id": 3,
+            "name": "Workload Alerts"
+            
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Registry Scan",
+        "shortName":"Image",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Cloud Accounts"
+          },
+          {
+            "id": 2,
+            "name": "Cloud Accounts Risk Assessment"
+            
+          },
+          {
+            "id": 3,
+            "name": "Workload Alerts"
+          }
+        ]
+      }
+    ],
+    "availableWidgets": [
+      {
+        "id": 1,
+        "name": "Cloud Accounts"
+      },
+      {
+        "id": 2,
+        "name": "Cloud Accounts Risk Assessment"
+        
+      },
+      {
+        "id": 3,
+        "name": "Workload Alerts"
+      },
+      {
+        "id": 4,
+        "name": "Image Risk Assessment"
+      },
+      
+      {
+        "id": 5,
+        "name": "Top 5 Namespace Specific Alerts"
+      }
+    ]
+  }
+  
